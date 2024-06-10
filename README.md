@@ -1,19 +1,19 @@
-<h2 align="left">Hi 👋! My name is Abhinav Naman and I'm a Web Developer, from Bengaluru</h2>
+<h2 align="left">Hi 👋! My name is Rutvik Aakarsh and I'm an App Developer, from Bengaluru</h2>
 
 ###
 
-<p align="left">https://abhinavnaman.netlify.app/</p>
+
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/abhinav-naman-912789111" target="_blank">
+  <a href="https://www.linkedin.com/in/rutvik-aakarsh-4905b6233/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="abhinavnaman3@gmail.com" target="_blank">
+  <a href="rutvikakarsh69@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/abhinav__naman/" target="_blank">
+  <a href="https://www.instagram.com/rutvuku/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
